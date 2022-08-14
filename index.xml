@@ -9,7 +9,16 @@
       <link>https://noracami.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 06 Aug 2022 04:00:00 +0800</lastBuildDate><atom:link href="https://noracami.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Aug 2022 18:00:00 +0800</lastBuildDate><atom:link href="https://noracami.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Environment for Mac</title>
+      <link>https://noracami.github.io/posts/environment_for_mac/</link>
+      <pubDate>Sun, 14 Aug 2022 18:00:00 +0800</pubDate>
+      
+      <guid>https://noracami.github.io/posts/environment_for_mac/</guid>
+      <description>Mac 開發環境安裝</description>
+    </item>
+    
     <item>
       <title>Memorization</title>
       <link>https://noracami.github.io/posts/memorization/</link>
