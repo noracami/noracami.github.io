@@ -9,7 +9,16 @@
       <link>https://noracami.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 09 Oct 2022 23:03:57 +0800</lastBuildDate><atom:link href="https://noracami.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Oct 2022 20:00:00 +0800</lastBuildDate><atom:link href="https://noracami.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minesweeper</title>
+      <link>https://noracami.github.io/posts/minesweeper/</link>
+      <pubDate>Sat, 22 Oct 2022 20:00:00 +0800</pubDate>
+      
+      <guid>https://noracami.github.io/posts/minesweeper/</guid>
+      <description>[CodeSignal] Minesweeper</description>
+    </item>
+    
     <item>
       <title>when_to_use_after_commit_with_active_record</title>
       <link>https://noracami.github.io/posts/when_to_use_after_commit_with_active_record/</link>
