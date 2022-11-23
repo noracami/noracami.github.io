@@ -9,7 +9,25 @@
       <link>https://noracami.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 31 Oct 2022 16:00:00 +0800</lastBuildDate><atom:link href="https://noracami.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Nov 2022 07:00:00 +0800</lastBuildDate><atom:link href="https://noracami.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comments</title>
+      <link>https://noracami.github.io/tags/comments/</link>
+      <pubDate>Wed, 23 Nov 2022 07:00:00 +0800</pubDate>
+      
+      <guid>https://noracami.github.io/tags/comments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://noracami.github.io/tags/hugo/</link>
+      <pubDate>Wed, 23 Nov 2022 07:00:00 +0800</pubDate>
+      
+      <guid>https://noracami.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Ruby</title>
       <link>https://noracami.github.io/tags/ruby/</link>
@@ -88,15 +106,6 @@
       <pubDate>Sat, 06 Aug 2022 04:00:00 +0800</pubDate>
       
       <guid>https://noracami.github.io/tags/enhancement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://noracami.github.io/tags/hugo/</link>
-      <pubDate>Sat, 30 Jul 2022 20:06:44 +0800</pubDate>
-      
-      <guid>https://noracami.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
