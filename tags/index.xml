@@ -9,7 +9,16 @@
       <link>https://noracami.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 23 Nov 2022 07:00:00 +0800</lastBuildDate><atom:link href="https://noracami.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 23:00:00 +0800</lastBuildDate><atom:link href="https://noracami.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ruby</title>
+      <link>https://noracami.github.io/tags/ruby/</link>
+      <pubDate>Sun, 01 Jan 2023 23:00:00 +0800</pubDate>
+      
+      <guid>https://noracami.github.io/tags/ruby/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Comments</title>
       <link>https://noracami.github.io/tags/comments/</link>
@@ -25,15 +34,6 @@
       <pubDate>Wed, 23 Nov 2022 07:00:00 +0800</pubDate>
       
       <guid>https://noracami.github.io/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ruby</title>
-      <link>https://noracami.github.io/tags/ruby/</link>
-      <pubDate>Mon, 31 Oct 2022 16:00:00 +0800</pubDate>
-      
-      <guid>https://noracami.github.io/tags/ruby/</guid>
       <description></description>
     </item>
     

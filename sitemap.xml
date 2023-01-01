@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://noracami.github.io/posts/utterances/</loc>
-    <lastmod>2022-11-23T07:00:00+08:00</lastmod>
+    <loc>https://noracami.github.io/posts/adventofcode/2022_advent_of_code_day_1/</loc>
+    <lastmod>2023-01-01T23:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://noracami.github.io/categories/advent-of-code/</loc>
+    <lastmod>2023-01-01T23:00:00+08:00</lastmod>
   </url><url>
     <loc>https://noracami.github.io/categories/</loc>
+    <lastmod>2023-01-01T23:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://noracami.github.io/</loc>
+    <lastmod>2023-01-01T23:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://noracami.github.io/posts/</loc>
+    <lastmod>2023-01-01T23:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://noracami.github.io/tags/ruby/</loc>
+    <lastmod>2023-01-01T23:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://noracami.github.io/tags/</loc>
+    <lastmod>2023-01-01T23:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://noracami.github.io/posts/utterances/</loc>
     <lastmod>2022-11-23T07:00:00+08:00</lastmod>
   </url><url>
     <loc>https://noracami.github.io/tags/comments/</loc>
     <lastmod>2022-11-23T07:00:00+08:00</lastmod>
   </url><url>
     <loc>https://noracami.github.io/tags/hugo/</loc>
-    <lastmod>2022-11-23T07:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://noracami.github.io/</loc>
-    <lastmod>2022-11-23T07:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://noracami.github.io/posts/</loc>
-    <lastmod>2022-11-23T07:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://noracami.github.io/tags/</loc>
     <lastmod>2022-11-23T07:00:00+08:00</lastmod>
   </url><url>
     <loc>https://noracami.github.io/categories/web/</loc>
@@ -30,9 +39,6 @@
     <lastmod>2022-10-31T16:00:00+08:00</lastmod>
   </url><url>
     <loc>https://noracami.github.io/posts/leetcode_biweekly_contest_90/</loc>
-    <lastmod>2022-10-31T16:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://noracami.github.io/tags/ruby/</loc>
     <lastmod>2022-10-31T16:00:00+08:00</lastmod>
   </url><url>
     <loc>https://noracami.github.io/posts/leetcode_weekly_contest_316/</loc>
